@@ -1,0 +1,18 @@
+{
+  "type": "paragraph"
+}
+
+{
+  "type": "rating",
+  "answers": [1,2,3,4,5]
+}
+
+{
+  "type": "checkbox",
+  "answers": ["dont have time", "dont have time"]
+}
+
+{
+  "type": "select",
+  "answers": ["dont have time", "dont have time"]
+}
